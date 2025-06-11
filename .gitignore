@@ -11,6 +11,9 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+# JetBrains Rider config files
+.idea/
+
 # Other files and folders
 .settings/
 
