@@ -1,5 +1,26 @@
+<<<<<<< HEAD
 bin/
 obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+=======
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+>>>>>>> 8ac6576d401e3f73b78825ea507b88373c524544
